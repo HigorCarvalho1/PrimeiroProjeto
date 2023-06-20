@@ -94,6 +94,7 @@ EX: background: color image repeat position/size */
 
 .light #switch button {
   animation: slide-in 0.4s forwards;
+  border-radius: 8px;
 }
 
 #switch button:hover {
