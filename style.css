@@ -11,7 +11,7 @@
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: red;
   --highlight-color: red;
-  --switch-bg-url: url(.vscode/moon-stars.svg);
+  --switch-bg-url: url(./assets/moon-stars.svg);
 }
 .light {
   --text-color: black;
