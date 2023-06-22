@@ -18,8 +18,8 @@
   --bg-url: url(./assets/bg-mobile-night.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
-  --surface-color-hover: darkblue;
-  --highlight-color: darkblue;
+  --surface-color-hover: rgba(0, 255, 255, 0.502);
+  --highlight-color: rgba(0, 255, 255, 0.502);
   --switch-bg-url: url(./assets/sun.svg.svg);
 }
 
